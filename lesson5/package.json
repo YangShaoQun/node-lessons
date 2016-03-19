@@ -1,14 +1,16 @@
 {
-  "name": "lesson5",
-  "version": "0.0.0",
-  "description": "使用 async 控制并发",
-  "main": "app.js",
+  "name": "lesson05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "alsotang <alsotang@gmail.com>",
-  "license": "MIT",
+  "author": "ysq",
+  "license": "ISC",
   "dependencies": {
-    "async": "^0.9.0"
+    "async": "^2.0.0-rc.1",
+    "cheerio": "^0.20.0",
+    "superagent": "^1.8.1"
   }
 }
